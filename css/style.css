@@ -1,9 +1,28 @@
 *{
     color: red;
+    
+    
 }
 h1{
     color: black;
 }
 h3{
     color: blue;
+}
+img{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+
+}
+ul>li{
+    color: black;
+    list-style-type: square;
+}
+ol>li{
+    color: black;
+    list-style-type: lower-roman;
+}
+p{
+    color: blueviolet;
 }
